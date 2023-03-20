@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\bin\Debug\net7.0\Control final course.exe
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\bin\Debug\net7.0\Control final course.deps.json
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\bin\Debug\net7.0\Control final course.runtimeconfig.json
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\bin\Debug\net7.0\Control final course.dll
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\bin\Debug\net7.0\Control final course.pdb
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\obj\Debug\net7.0\Control final course.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\obj\Debug\net7.0\Control final course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\obj\Debug\net7.0\Control final course.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\obj\Debug\net7.0\Control final course.AssemblyInfo.cs
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\obj\Debug\net7.0\Control final course.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\obj\Debug\net7.0\Control final course.dll
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\obj\Debug\net7.0\refint\Control final course.dll
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\obj\Debug\net7.0\Control final course.pdb
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\obj\Debug\net7.0\Control final course.genruntimeconfig.cache
+C:\Users\USER\Desktop\ИТОГОВОЕ\Control final course\obj\Debug\net7.0\ref\Control final course.dll
